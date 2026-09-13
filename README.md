@@ -12,3 +12,8 @@ Built to practice the kind of research-to-report workflow a Go-To-Market analyst
 4. Run it interactively: `python research_report.py` (you'll be prompted for a topic)
    Or run it directly: `python research_report.py "your topic here" --num 5`
 5. A markdown report is saved to the project folder
+## Related projects
+This is the first step in a small pipeline of tools:
+1. **research-report-tool** (this repo) — topic-to-report research automation
+2. [toronto-boutique-finder](https://github.com/ghazalmhr1-gif/toronto-boutique-finder) — finds and enriches local business leads
+3. [boutique-lead-qualifier](https://github.com/ghazalmhr1-gif/boutique-lead-qualifier) — verifies and scores those leads for outreach readiness
